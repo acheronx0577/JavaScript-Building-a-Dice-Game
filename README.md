@@ -22,8 +22,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 <img width="1063" height="970" alt="Screenshot 2025-11-03 145916" src="https://github.com/user-attachments/assets/82f721c3-cdcd-4b8f-bfa8-056fef56fc56" />
 
-Live Demo: [Coming Soon]
-
+Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Dice-Game
 ---
 
 ## 🎮 How to Play
